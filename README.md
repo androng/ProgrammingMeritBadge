@@ -3,6 +3,9 @@
 
 Alloted time: 30 minutes
 
+<h3>How to use</h3>
+Exercises are listed in Blink.ino. Comment and uncomment exercises with Ctrl-C and compile. Scouts will complete as much as they can. 
+
 <h3>Teaching</h3> 
 DO NOT TYPE CODE FOR SCOUTS. Let the scouts do all typing. They learn by 
 doing. Have the "List of Arduino functions.pdf" on the other side 
